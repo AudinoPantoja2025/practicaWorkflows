@@ -1,3 +1,0 @@
-# practica
-se crea este repositorio como practica de  git
-Audino Pantoja
